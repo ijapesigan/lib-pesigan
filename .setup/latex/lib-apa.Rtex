@@ -59,8 +59,8 @@
 %         ".setup",
 %         "latex"
 %       ),
-%       # sorting = "ydnt"
-%       sorting = "nyt"
+%       sorting = "ydnt"
+%       # sorting = "nyt"
 %     )
 %   )
 % }
