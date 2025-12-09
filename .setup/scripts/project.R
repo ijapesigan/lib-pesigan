@@ -31,6 +31,8 @@ pkg_ver <- c()
 
 ver <- c()
 
+pkg_bioconductor <- c()
+
 ignore <- NULL
 
 license <- NULL
