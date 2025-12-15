@@ -17,6 +17,8 @@
 
 project <- "lib-pesigan"
 
+rproject_ver <- NULL
+
 pkg_cran <- c(
   "RefManageR"
 )
