@@ -4,7 +4,7 @@ author: "Ivan Jacob Agaloos Pesigan"
 date: "`r Sys.Date()`"
 output: github_document
 bibliography: "vignettes.bib"
-csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
+csl: https://raw.githubusercontent.com/ijapesigan/apa-sort-date-descending/refs/heads/main/apa-sort-date-descending.csl
 nocite: |
   @*
 ---
@@ -25,3 +25,5 @@ knitr::opts_chunk$set(
 [![Shell Check](https://github.com/ijapesigan/lib-pesigan/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/ijapesigan/lib-pesigan/actions/workflows/shellcheck.yml)
 [![pages-build-deployment](https://github.com/ijapesigan/lib-pesigan/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ijapesigan/lib-pesigan/actions/workflows/pages/pages-build-deployment)
 <!-- badges: end -->
+
+Listed from most recent to oldest.
