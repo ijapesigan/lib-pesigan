@@ -79,6 +79,11 @@
 
 \nocite{*}
 
-\printbibliography
+\defbibnote{chronological}{%
+Listed from most recent to oldest.
+}
+\printbibliography[
+  title = {Publications}, prenote = chronological
+]
 
 \end{document}
