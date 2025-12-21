@@ -19,7 +19,7 @@ book:
   appendices:
     - .setup/quarto/session/session.qmd
 bibliography: .setup/quarto/bib/quarto.bib
-csl: https://raw.githubusercontent.com/citation-style-language/styles-distribution/refs/heads/master/apa-cv.csl
+csl: https://raw.githubusercontent.com/ijapesigan/apa-sort-date-descending/refs/heads/main/apa-sort-date-descending.csl
 
 format:
   html:
