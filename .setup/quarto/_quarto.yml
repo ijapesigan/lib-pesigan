@@ -3,7 +3,7 @@ project:
   output-dir: quarto
 
 book:
-  title: "lib-pesigan"
+  title: "Publications"
   author: "Ivan Jacob Agaloos Pesigan"
   date: today
   search: true
@@ -15,9 +15,6 @@ book:
     pinned: true
   chapters:
     - index.qmd
-    - .setup/quarto/tags/tags.qmd
-  appendices:
-    - .setup/quarto/session/session.qmd
 bibliography: .setup/quarto/bib/quarto.bib
 csl: https://raw.githubusercontent.com/ijapesigan/apa-sort-date-descending/refs/heads/main/apa-sort-date-descending.csl
 
